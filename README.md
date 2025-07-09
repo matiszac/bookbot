@@ -1,6 +1,6 @@
 ## bookbot
 
-BookBot is my first python project!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 ### Usage
 It can be incredibly difficult to use this program so make sure to follow the instructions carefully...
@@ -8,7 +8,7 @@ It can be incredibly difficult to use this program so make sure to follow the in
 ```bash
 mkdir books
 touch books/frankenstein.txt
-python3 main.py
+uv run main.py
 ```
 
 Oh.. Maybe put some text in frankenstein.txt.
