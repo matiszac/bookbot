@@ -6,9 +6,5 @@ BookBot is my first [Boot.dev](https://www.boot.dev) project!
 It can be incredibly difficult to use this program so make sure to follow the instructions carefully...
 
 ```bash
-mkdir books
-touch books/frankenstein.txt
-uv run main.py
+python3 main.py <path_to_book>
 ```
-
-Oh.. Maybe put some text in frankenstein.txt.
